@@ -1,1 +1,10 @@
+HandWritten Numerical Digits Classification on the famous MNIST Dataset with 70,000 total images
+from (0 to 9) of 8x8 size. The 60,000 Data is used for training and 10,000 data used for testing 
+in this model.
+The model Tested on two Algorithums :
+1.) K-nearest neighbour (Machine learning Algorithim)
+2.) Deep Neural Network
+
+Both results are compared and The testing done on real-time Data eith best approch towards preprocessing 
+of raw Data. 
 
