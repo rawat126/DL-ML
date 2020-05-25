@@ -1,0 +1,16 @@
+Malaria is a deadly, infectious mosquito-borne disease caused by Plasmodium parasites. These parasites are transmitted by the bites 
+of infected female Anopheles mosquitoes.It is pretty clear that malaria is prevalent across the globe especially in tropical regions.
+The motivation for this project is however based on the nature and fatality of this disease.
+                                                    Initially if an infected mosquito bites you, parasites carried by the mosquito
+ will get in your blood and start destroying oxygen-carrying RBCs (red blood cells). Typically the first symptoms of malaria
+ are similar to the flu or a virus when you usually start feeling sick within a few days or weeks after the mosquito bite. However 
+ these deadly parasites can live in your body for over a year without any problems! Thus, a delay in the right treatment can lead
+ to complications and even death. Hence early and effective testing and detection of malaria can save lives.
+                                                  There are several methods and tests which can be used for malaria detection and
+diagnosis.We will discuss briefly about a standard malaria diagnosis, based on a typical blood-smear workflow
+
+These Are The major steps to collect Data for Malaria Blood Cells : 
+      https://miro.medium.com/proxy/1*VWxRC2BePykk3xVVEDzbdg.png
+ 
+ Thus, malaria detection is definitely an intensive manual process which can perhaps be automated using deep learning which forms 
+ the basis of this article. The Original Approch used in this Project is used from (https://arxiv.org/ftp/arxiv/papers/1907/1907.10418.pdf),2019
