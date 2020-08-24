@@ -12,4 +12,7 @@ The project architecture rules in the flowchaqart below will explain everything.
 Project Highlights
 ============================================
  ## 1.)  Data Collection
-The datasets are available [here](https://lhncbc.nlm.nih.gov/publication/pub9932) and the Patient-ID to cell mappings for the parasitized and uninfected classes at [patientid_cellmapping_parasitized.csv](https://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_parasitized.csv) and [patientid_cellmapping_uninfected.csv](https://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_uninfected.csv) respectively.
+The datasets are available [here](http://yann.lecun.com/exdb/mnist/) and even it's preloaded in tensorflow Datasets both(1.41 and 2.x)
+
+## 2.)  Data Preprocessing
+For Data preprocessing we have 
