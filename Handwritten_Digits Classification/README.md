@@ -11,5 +11,5 @@ The project architecture rules in the flowchaqart below will explain everything.
 
 Project Highlights
 ============================================
- ##1.)  Data Collection
-The datasets are available [here](https://lhncbc.nlm.nih.gov/publication/pub9932) and the Patient-ID to cell mappings for the parasitized and uninfected classes at [patientid_cellmapping_parasitized.csv](ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_parasitized.csv) and [patientid_cellmapping_uninfected.csv](ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_uninfected.csv) respectively.
+ ## 1.)  Data Collection
+The datasets are available [here](https://lhncbc.nlm.nih.gov/publication/pub9932) and the Patient-ID to cell mappings for the parasitized and uninfected classes at [patientid_cellmapping_parasitized.csv](https://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_parasitized.csv) and [patientid_cellmapping_uninfected.csv](https://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_uninfected.csv) respectively.
