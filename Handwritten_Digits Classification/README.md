@@ -4,8 +4,12 @@ The handwritten digit recognition is the ability of computers to recognize human
 
 Project Architecture
 ============================================
-The project architecture rules in the flowchaqart below will explain everything
+The project architecture rules in the flowchaqart below will explain everything.......
 <p align = "center">
 <img src = "https://raw.githubusercontent.com/rawat126/DL-ML/master/Handwritten_Digits%20Classification/Model_h_des.png">
 </p>
 
+Project Highlights
+============================================
+ ##1.)  Data Collection
+The datasets are available [here](https://lhncbc.nlm.nih.gov/publication/pub9932) and the Patient-ID to cell mappings for the parasitized and uninfected classes at [patientid_cellmapping_parasitized.csv](ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_parasitized.csv) and [patientid_cellmapping_uninfected.csv](ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/patientid_cellmapping_uninfected.csv) respectively.
