@@ -14,7 +14,7 @@ Project Highlights
  ## 1.)  Data Collection
 The datasets are available [here](http://yann.lecun.com/exdb/mnist/) and even it's preloaded in tensorflow Datasets both(1.41 and 2.x)
 <p align = center>
-<img src = "https://raw.githubusercontent.com/rawat126/DL-ML/master/Handwritten_Digits%20Classification/numbers.png", width = 300>
+<img src = "https://raw.githubusercontent.com/rawat126/DL-ML/master/Handwritten_Digits%20Classification/numbers.png", width = 200>
 </p>
 
 ## 2.)  Data Preprocessing
