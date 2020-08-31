@@ -22,3 +22,6 @@ For the better comparison between the models of both ML and DL algorithums we si
 
 ## 4.) Real World Implementation
 We have tested our models for classifying the digits written by us on a plain-white paper(to avoid contradiction of pixels) and the mobile click of these digits also give us very satisfactory results 
+
+
+### Thank You :-)
