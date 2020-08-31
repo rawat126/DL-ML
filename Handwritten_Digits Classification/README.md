@@ -14,7 +14,7 @@ Project Highlights
  ## 1.)  Data Collection
 The datasets are available [here](http://yann.lecun.com/exdb/mnist/) and even it's preloaded in tensorflow Datasets both(1.41 and 2.x)
 <p align = center>
-<img src = "https://raw.githubusercontent.com/rawat126/DL-ML/master/Handwritten_Digits%20Classification/numbers.png", width = 200>
+<img src = "https://raw.githubusercontent.com/rawat126/DL-ML/master/Handwritten_Digits%20Classification/numbers.png">
 </p>
 
 ## 2.)  Data Preprocessing
@@ -25,10 +25,5 @@ For the better comparison between the models of both ML and DL algorithums we si
 
 ## 4.) Real World Implementation
 We have tested our models for classifying the digits written by us on a plain-white paper(to avoid contradiction of pixels) and the mobile click of these digits also give us very satisfactory results 
-
-<p align = center>
-<img src = "https://raw.githubusercontent.com/rawat126/DL-ML/master/Handwritten_Digits%20Classification/pre_num.png", width = 400>
-</p>
-
 
 ### Thank You :-)
