@@ -15,4 +15,10 @@ Project Highlights
 The datasets are available [here](http://yann.lecun.com/exdb/mnist/) and even it's preloaded in tensorflow Datasets both(1.41 and 2.x)
 
 ## 2.)  Data Preprocessing
-For Data preprocessing we have 
+For Data preprocessing we have used simple noramlization of images and then Setting up a theroshold values of pixels highlighting the most dominating pixels( just by random hit and trial).
+
+## 3.) Model Selection
+For the better comparison between the models of both ML and DL algorithums we simply used K-Neareast Neighbours Classifier and a shallow Artificial Neural Network for better understanding the pixels intensity.
+
+## 4.) Real World Implementation
+We have tested our models for classifying the digits written by us on a plain-white paper(to avoid contradiction of pixels) and the mobile click of these digits also give us very satisfactory results 
